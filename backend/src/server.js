@@ -13,7 +13,10 @@ connectDB();
 const app = express();
 
 app.use(cors({
-  origin: '*',
+  origin: [
+    'https://ecommerce-fullstack-mauve.vercel.app',
+    'http://localhost:5173'
+  ],
   credentials: true
 }));
 app.use(express.json());
