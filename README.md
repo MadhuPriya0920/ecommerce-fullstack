@@ -6,8 +6,7 @@ A production-ready, full stack E-Commerce web application built with React, Node
 
 ## Live Demo
 
-- **Frontend:** https://ecommerce-fullstack-mauve.vercel.app
-- **Backend API:** https://ecommerce-fullstack-hrqy.onrender.com
+- https://ecommerce-fullstack-mauve.vercel.app
 
 ---
 
